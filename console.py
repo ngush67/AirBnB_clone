@@ -1,4 +1,6 @@
-nd interpreter
+#!/usr/bin/python3
+"""
+Entry to command interpreter
 """
 import cmd
 from models import storage

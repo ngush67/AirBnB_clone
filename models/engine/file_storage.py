@@ -1,4 +1,5 @@
-le Storage'''
+#!/usr/bin/python3
+'''File Storage'''
 import json
 from models.base_model import BaseModel
 from models.user import User
