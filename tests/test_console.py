@@ -1,4 +1,6 @@
-ttest for console command interpreter
+#!/usr/bin/python3
+"""
+Unittest for console command interpreter
 """
 import unittest
 from unittest.mock import patch
