@@ -1,4 +1,6 @@
-mport unittest
+#!/usr/bin/python3
+
+import unittest
 import os
 import pep8
 from models.user import User
