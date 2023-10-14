@@ -1,7 +1,6 @@
-#!/usr/bin/env python3
-'''Packages a bunch of modules'''
-
-from models.engine import file_storage
+#!/usr/bin/python3
+'''comment'''
+from models.engine.file_storage import FileStorage
 
 storage = FileStorage()
 storage.reload()
